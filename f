@@ -8,7 +8,7 @@
 function push_commit()
 {
     #commit changes
-    git commit -am 'new chapter'
+    git commit -am 'photo grid'
     # push to github
     git push
 }
@@ -17,7 +17,7 @@ function push_commit()
 function commit()
 {
     # commt changes only
-    git commit -am 'new chapter'
+    git commit -am 'photo grid'
 }
 
 # what to run
