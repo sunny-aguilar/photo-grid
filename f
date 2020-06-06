@@ -32,7 +32,7 @@ elif [ "$1" == 'commit' ]; then
 
 elif [ "$1" == 'run' ]; then
     # run Python script
-    python3 emails.py $2 $3
+    # python3 emails.py $2 $3
     exit 0
 
 elif [ "$1" == 'runs' ]; then
