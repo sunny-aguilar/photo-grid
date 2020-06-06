@@ -13,7 +13,6 @@ function push_commit()
     git push
 }
 
-
 function commit()
 {
     # commt changes only
